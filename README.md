@@ -10,3 +10,6 @@ Fewer lines of code needed to write the program in comparison with Java.
 Due to restrictions on how many files that can be uploaded to a GitHub repository, I extracted the main files for each project
 - Android Manifest files
 - Main folders with their files
+
+#Added Broadcast Receivers to the XML Color Swap App
+- To pull up new Broadcast Recievers
